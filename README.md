@@ -2,7 +2,7 @@
 
 Rick and Morty API from: https://rickandmortyapi.com/
 
-Accompanying video on youtube: 
+Accompanying video on youtube: https://youtu.be/meIW4gMEuW0
 
 Chat log:
 
